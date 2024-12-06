@@ -1,0 +1,47 @@
+div .text-box {
+    
+}
+.h3 {
+color: pink;
+}
+#greycol {
+color: grey;
+}
+.yellow {
+color: yellow;    
+}
+h3:nth-of-type(1) {
+    color: #ff00f2;
+  }
+  p:nth-of-type(3) {
+    color: #00ff04;
+  }
+div p {
+    color: red;
+}
+p:nth-of-type() {
+    color: #000000;
+  }
+
+
+
+.a {
+color: red;
+}
+.b {
+color: aqua;
+}
+.c {
+    color: rgb(198, 244, 12);
+    }
+.d {
+ color: rgb(0, 0, 255);
+}
+.e {
+    color: rgb(0, 145, 255);
+    }
+
+
+
+
+
